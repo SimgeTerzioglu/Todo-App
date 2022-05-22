@@ -23,7 +23,7 @@ Oluşturulan yapılacaklar listeleri ana sayfada gözüktüğü gibi aynı zaman
 
 ***
 
-#Yardım Alınan Kaynaklar:
+# Yardım Alınan Kaynaklar:
 * https://www.c-sharpcorner.com/article/an-introduction-to-programming-through-cpp/
 * https://flutterawesome.com/tag/todo/
 * https://daily-dev-tips.com/posts/build-a-todo-list-app-with-flutter/
