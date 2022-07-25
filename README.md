@@ -15,6 +15,7 @@ Oluşturulan yapılacaklar listeleri ana sayfada gözüktüğü gibi aynı zaman
 ![](https://github.com/SimgeTerzioglu/Todo-App/blob/main/3.gif)
 
 ***
+
 # Hazırlayanlar: 
 * Simge Terzioğlu - 1190505072
 * Zehra Akgül - 1190505069
