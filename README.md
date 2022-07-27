@@ -30,3 +30,4 @@ Oluşturulan yapılacaklar listeleri ana sayfada gözüktüğü gibi aynı zaman
 * https://daily-dev-tips.com/posts/build-a-todo-list-app-with-flutter/
 * https://pub.dev/packages/sqflite
 * https://www.mobiler.dev/post/flutter-da-local-veritabani-sqflite
+
